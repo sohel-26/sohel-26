@@ -7,8 +7,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://sikander27.github.io/assets/images/programmer.gif" />
 
-<p align="left"> <a href="https://twitter.com/imsikandarkhan" target="blank"><img src="https://img.shields.io/twitter/follow/imsikandarkhan?logo=twitter&style=for-the-badge" alt="imsikandarkhan" /></a> </p>
-
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **A problem, I will draft a solution for it.**
